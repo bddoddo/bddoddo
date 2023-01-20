@@ -1,6 +1,6 @@
 ## 다재다능한 제너럴리스트 김영범입니다 🌈
-##### 건국대학교(서울) / 서초고등학교(서울) 🏫👨🏻‍🎓
-##### 마케팅, 기획, 전략을 주로 하고 프로그래밍언어, 외국어도 관심이 많아요!
+#### 건국대학교(서울) / 서초고등학교(서울) 🏫👨🏻‍🎓
+#### 마케팅, 기획, 전략을 주로 하고 프로그래밍언어, 외국어도 관심이 많아요!
 
 <!--
 **bddoddo/bddoddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
