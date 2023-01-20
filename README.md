@@ -1,4 +1,7 @@
-### Hi there 👋
+### 다재다능한 제너럴리스트 김영범입니다 🌈
+### ____________________________________________
+### 건국대학교(서울) / 서초고등학교(서울)
+### 본 직업: 마케터
 
 <!--
 **bddoddo/bddoddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
